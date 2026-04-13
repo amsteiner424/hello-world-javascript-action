@@ -19,12 +19,12 @@
   },
   "homepage": "https://github.com/amsteiner424/hello-world-javascript-action#readme",
   "dependencies": {
-    "@actions/core": "^2.0.2",
-    "@actions/github": "^7.0.0"
+    "@actions/core": "^2.0.3",
+    "@actions/github": "^9.1.0"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^29.0.0",
+    "@rollup/plugin-commonjs": "^29.0.2",
     "@rollup/plugin-node-resolve": "^16.0.3",
-    "rollup": "^4.55.3"
+    "rollup": "^4.60.1"
   }
 }
