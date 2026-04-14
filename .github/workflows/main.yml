@@ -14,7 +14,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:        
-
       # Use the output from the `hello` step
       - name: Get the output time
         run: echo "The time was ${{ inputs.org-name }}"
+      - name: test sf
+        run: sf org:open
